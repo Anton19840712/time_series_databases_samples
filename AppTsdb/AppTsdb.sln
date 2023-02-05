@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.3.32929.385
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleAppTsdb", "ConsoleAppTsdb\ConsoleAppTsdb.csproj", "{62649842-1E58-4B1A-A7C7-FFBBDFB078F3}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InfluxDb.Api", "InfluxDb.Api\InfluxDb.Api.csproj", "{93C85BAC-53B5-42DD-939C-0A6B9C119B1F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,10 +11,10 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{62649842-1E58-4B1A-A7C7-FFBBDFB078F3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{62649842-1E58-4B1A-A7C7-FFBBDFB078F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{62649842-1E58-4B1A-A7C7-FFBBDFB078F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{62649842-1E58-4B1A-A7C7-FFBBDFB078F3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{93C85BAC-53B5-42DD-939C-0A6B9C119B1F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{93C85BAC-53B5-42DD-939C-0A6B9C119B1F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{93C85BAC-53B5-42DD-939C-0A6B9C119B1F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{93C85BAC-53B5-42DD-939C-0A6B9C119B1F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
